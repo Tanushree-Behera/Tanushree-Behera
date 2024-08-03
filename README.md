@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanushree Behera
 - 👀 I’m interested in learning new things,coding,dancing,reading and crafting
-- 🌱 I’m currently learning in my Second year of Engineering
+- 🌱 I’m currently learning in my Third year of Engineering
 
 <!---
 
